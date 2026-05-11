@@ -10,7 +10,7 @@ public static class Calculator
     /// </summary>
     public static decimal Add(decimal a, decimal b) => a + b;
 
-    public static int Add(decimal a, decimal b) => (int)(a + b);
+    //public static int Add(decimal a, decimal b) => (int)(a + b);
 
 
     /// <summary>
